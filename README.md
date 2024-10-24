@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/school-system.git
+git clone [https://github.com/your-username/school-system.git](https://github.com/dendendenden123/School-System)
 Navigate to the project directory:
 bash
 Copy code
